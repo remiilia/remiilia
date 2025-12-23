@@ -5,7 +5,7 @@ I'm a developer mainly working with Lua and HTML. I focus a lot on backend syste
 
 Most of my work is around systems design. Stuff like data flow, client/server logic, progression systems, permissions and other backend heavy features. I also do front end scripting when needed, especially UI logic and how it talks to backend systems etc.
 
-My approach is pretty simple. Clear structure, readable code and room to expand later. I avoid overengineering not because its hard but because it usually creates more problems than it solves. Most of the time it just ends up being a temporary solution anyway.
+I code in a way that's clear structure, readable code and room to expand later. I avoid overengineering not because its hard but because it usually creates more problems than it solves. Most of the time it just ends up being a temporary solution anyway.
 
 I work best with people who communicate clearly, know what they want and respect timelines. Pricing is always fair and based on effort. Simple work stays simple and complex work is treated properly.
 
