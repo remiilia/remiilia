@@ -13,7 +13,7 @@ I usually take on one off commissions or repeat work with people I enjoy working
 
 This Git of mine is mainly here to show how I structure my code, the kinds of systems I build and how I approach development overall.
 
-# So Feel free to look around, make sure to check my bio!
+# So feel free to look around, make sure to check my bio!
 
 ## { - Contributions - }
 
