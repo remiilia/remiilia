@@ -1,4 +1,4 @@
-## Hi there, I'm Rem
+## Hi there, I'm nyeowie
 
 I'm a developer mainly working with Lua and HTML. I focus a lot on backend systems and making sure things are built in a way that wont become a problem later. I'm comfortable building full systems from scratch, refactoring messy or fragile code and restructuring projects so they dont fall apart once new features get added. 
 (Garry's Mod taught me this the hard way)
